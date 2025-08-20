@@ -1,0 +1,1 @@
+//Sum of N natural numbers using loop
